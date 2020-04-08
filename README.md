@@ -1,6 +1,6 @@
 # COVID19-India API
 
-A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial)
+A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial).
 
 ## API
 
@@ -12,20 +12,20 @@ A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial
 | Travel history                                        | https://api.covid19india.org/travel_history.json      |
 | Raw data                                              | https://api.covid19india.org/raw_data.json            |
 | States Daily changes                                  | https://api.covid19india.org/states_daily.json        |
-| States Daily in csv                                   | http://api.covid19india.org/states_daily_csv/confirmed.csv |
-|                                                       | https://api.covid19india.org/states_daily_csv/deceased.csv |
-|                                                       | https://api.covid19india.org/states_daily_csv/recovered.csv   |
+| States Daily(confirmed) in csv                        | http://api.covid19india.org/states_daily_csv/confirmed.csv |
+| States Daily(deceased) in csv                         | https://api.covid19india.org/states_daily_csv/deceased.csv |
+| States Daily(recovered) in csv                        | https://api.covid19india.org/states_daily_csv/recovered.csv   |
 
   
 ## Projects Using This API
 
-- [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization)
-- [INDIA COVID-19 Google Map TRACKER](https://goo.gl/maps/U32Ex1gWQxmc6Aot8)
+- [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization).
+- [INDIA COVID-19 Google Map TRACKER](https://goo.gl/maps/U32Ex1gWQxmc6Aot8).
 
 ## Quick Links
 
-- [Our Community Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24)
-- [Crowd Sourced Patient Database](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml) (Google Drive)
+- [Our Community Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24).
+- [Crowd Sourced Patient Database](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml) (Google Drive).
 
 ## Contribution
 
